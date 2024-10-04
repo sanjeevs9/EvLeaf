@@ -7,14 +7,14 @@ import Home from './components/Home'
 import Bus from './components/Bus'
 import Solar from './components/Solar'
 import Wind from './components/Wind'
+import Test from './components/test'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <Navbar/>
-      <Home/>
+    <Test/>
       <Wind/>
       <Bus/>
       <Solar/>

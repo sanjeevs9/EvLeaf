@@ -3,7 +3,7 @@
 export default function Navbar(){
     return (
         <>
-        <div className=" flex justify-center pt-5 bg-red-200 ">
+        <div className=" flex justify-center pt-5 bg-white">
             <div className="flex gap-10 ">
                 <div className="flex">
                     <img className="object-contain h-20" src={"https://static.wixstatic.com/media/34c23e_49799759db5945c392b42911e86bee12~mv2.png/v1/fill/w_241,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-08-10%20164327.png"}></img>
