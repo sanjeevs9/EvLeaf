@@ -8,6 +8,7 @@ import Bus from './components/Bus'
 import Solar from './components/Solar'
 import Wind from './components/Wind'
 import Test from './components/test'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,7 +19,7 @@ function App() {
       <Wind/>
       <Bus/>
       <Solar/>
-      
+      <Footer/>
     </>
   )
 }

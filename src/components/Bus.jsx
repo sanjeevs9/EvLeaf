@@ -9,7 +9,7 @@ export default function Bus() {
                     backgroundImage: "url('https://static.wixstatic.com/media/11062b_fbe7eaa8c4594aa8a8f0bd5dbe505019~mv2.jpg/v1/fill/w_1920,h_689,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_fbe7eaa8c4594aa8a8f0bd5dbe505019~mv2.jpg')",
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
-                    height: '400px', // You can adjust the height
+                    height: '700px', // You can adjust the height
                     width: '100%', // Ensures it spans the full width
                 }} >
             </div>
