@@ -11,10 +11,10 @@ export default function Navbar(){
                 <div className="flex  items-center">
                     <ol className="flex gap-5 font-thin text-sm">
                         <li className="hover:text-blue-700 cursor-pointer">HOME</li>
-                        <li>ABOUT US</li>
-                        <li>SERVICES</li>
-                        <li>PRODUCTS</li>
-                        <li>CONTACT</li>
+                        <li className="hover:text-blue-700 cursor-pointer">ABOUT US</li>
+                        <li className="hover:text-blue-700 cursor-pointer">SERVICES</li>
+                        <li className="hover:text-blue-700 cursor-pointer">PRODUCTS</li>
+                        <li className="hover:text-blue-700 cursor-pointer">CONTACT</li>
                     </ol>
                 </div>
                 <div>
