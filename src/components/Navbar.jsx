@@ -19,7 +19,6 @@ export default function Navbar(){
                 </div>
                 <div> 
 
-                    
                     <img className="object-contain h-24"   src="https://static.wixstatic.com/media/34c23e_93930e05bb4b411b9f8811b4e99709b3~mv2.jpg/v1/crop/x_0,y_238,w_800,h_328/fill/w_261,h_107,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/download%20(1)_edited.jpg"></img>
                 </div>
             </div>
