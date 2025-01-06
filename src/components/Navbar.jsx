@@ -22,7 +22,6 @@ export default function Navbar(){
                 </div>
             </div>
             <div className="bg-RED min-h-7">
-                    
             </div>
             </div> 
         </>
